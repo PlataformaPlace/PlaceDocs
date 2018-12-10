@@ -33,7 +33,7 @@ Após a validação ou não do DT, a Direção Executiva deve abrir as Pautas On
 
 
 > [!IMPORTANT]  
-> O DT que não autorize a publicação das notas, após a abertura das pautas online por parte da direção executiva, não serão visíveis na aplicação para os encarregados de educação. 
+> O DT que não autorize a publicação das notas, após a abertura das pautas online por parte da direção executiva, estas não serão visíveis na aplicação para os encarregados de educação. 
 
 
 Salientamos que a informação é visualizada em tempo real sempre que é atualizada pelas escolas.
