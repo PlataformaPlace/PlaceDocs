@@ -9,6 +9,7 @@
 ##[Horários](Docentes/Horarios.md)
 ##[Sumários](Docentes/Sumarios.md)
 ##[Faltas](Docentes/Faltas.md)
+##[Avaliação](Docentes/Avaliacao.md)
 #[Alunos](Alunos/index.md)
 ##[Apoio aos Manuais Escolares (2º Ciclo)](Alunos/manuais.md)
 ##[Pré-Inscrições (9º ano)](Alunos/preinscricoes9ano.md)

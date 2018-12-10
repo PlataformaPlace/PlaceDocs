@@ -58,6 +58,7 @@
     <None Include="Place21\Alunos\preinscricoes9ano.md" />
     <None Include="Place21\Alunos\Renovacoes.md" />
     <None Include="Place21\Docentes\Faltas.md" />
+    <None Include="Place21\Docentes\Avaliacao.md" />
     <None Include="Place21\Docentes\Horarios.md" />
     <None Include="Place21\Docentes\index.md" />
     <None Include="Place21\Docentes\sumarios.md" />
@@ -135,6 +136,7 @@
     <None Include="PlaceMiudos\Docentes\horario.md" />
     <Content Include="images\global\logop21.png" />
     <Content Include="images\global\logopm.png" />
+    <Content Include="images\Place21\Alunos\abrirpautas.PNG" />
     <Content Include="images\Place21\Alunos\alunoseturmas.PNG" />
     <Content Include="images\Place21\Alunos\ASE.PNG" />
     <Content Include="images\Place21\Alunos\asemiudos.PNG" />
@@ -192,6 +194,7 @@
     <Content Include="images\Place21\Alunos\preescolar.PNG" />
     <Content Include="images\Place21\Alunos\preferencias.PNG" />
     <Content Include="images\Place21\Alunos\preinscriçoes.PNG" />
+    <Content Include="images\Place21\Alunos\publicar.PNG" />
     <Content Include="images\Place21\Alunos\renovacao.PNG" />
     <Content Include="images\Place21\Alunos\salas.PNG" />
     <Content Include="images\Place21\Alunos\scary_mask-512.png" />
