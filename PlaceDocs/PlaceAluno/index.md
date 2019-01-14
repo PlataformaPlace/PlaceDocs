@@ -1,5 +1,5 @@
 ﻿
-![Place21](../images/Place21/Alunos/place21.PNG)
+![Placealuno](../images/Place21/Alunos/placealuno.PNG)
 
 # **PLACE Aluno**
 

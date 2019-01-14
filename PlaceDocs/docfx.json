@@ -5,6 +5,7 @@
         "files": [
           "Place21/**.md",
           "PlaceMiudos/**.md",
+          "PlaceAluno/**.md",
           //"PlaceMiudos/toc.yml",
           "toc.yml",
           "*.md"
