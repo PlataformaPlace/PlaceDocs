@@ -20,7 +20,7 @@
 ##[Mudança de curso](Alunos/Mudancacurso.md)
 ##[Faltas](alunos/Faltas.md)
 #[Encarregado de Educação](Encarregadodeeducacao/index.md)
-##[Place Aluno](Encarregadodeeducacao/placealuno.md)
+
 
 
 
