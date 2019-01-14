@@ -62,7 +62,6 @@
     <None Include="Place21\Docentes\Horarios.md" />
     <None Include="Place21\Docentes\index.md" />
     <None Include="Place21\Docentes\sumarios.md" />
-    <None Include="Place21\Encarregadodeeducacao\placealuno.md" />
     <None Include="Place21\Encarregadodeeducacao\index.md" />
     <None Include="Place21\Escola\exportacoesdedados.md" />
     <None Include="Place21\Escola\Importacoesdedados.md" />
@@ -192,6 +191,7 @@
     <Content Include="images\Place21\Alunos\menu.PNG" />
     <Content Include="images\Place21\Alunos\mudardecurso.PNG" />
     <Content Include="images\Place21\Alunos\mudardecursof.PNG" />
+    <Content Include="images\Place21\Alunos\novapass.PNG" />
     <Content Include="images\Place21\Alunos\novocurso.PNG" />
     <Content Include="images\Place21\Alunos\ofertaformativa.PNG" />
     <Content Include="images\Place21\Alunos\place21.PNG" />
