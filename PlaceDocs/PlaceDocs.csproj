@@ -70,8 +70,8 @@
     <None Include="Place21\Escola\Interrupcoesletivas.md" />
     <None Include="Place21\Escola\ofertaformativa.md" />
     <None Include="Place21\Escola\Recursosdaescola.md" />
-    <None Include="PlaceAluno\encarregadodeeducacao.md" />
-    <None Include="PlaceAluno\aluno.md" />
+    <None Include="PlaceAluno\Encarregadodeeducacao\index.md" />
+    <None Include="PlaceAluno\Alunos\index.md" />
     <None Include="PlaceAluno\index.md" />
     <None Include="PlaceAluno\toc.md" />
     <None Include="PlaceMiudos\Alunos\Acaosocial.md" />
