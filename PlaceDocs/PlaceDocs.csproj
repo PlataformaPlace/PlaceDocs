@@ -70,7 +70,8 @@
     <None Include="Place21\Escola\Interrupcoesletivas.md" />
     <None Include="Place21\Escola\ofertaformativa.md" />
     <None Include="Place21\Escola\Recursosdaescola.md" />
-    <None Include="Place21\PlaceAluno\Placealuno.md" />
+    <None Include="PlaceAluno\encarregadodeeducacao.md" />
+    <None Include="PlaceAluno\aluno.md" />
     <None Include="PlaceAluno\index.md" />
     <None Include="PlaceAluno\toc.md" />
     <None Include="PlaceMiudos\Alunos\Acaosocial.md" />
@@ -240,7 +241,6 @@
     <Content Include="Template\UniversalReference.html.primary.js" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Place21\NewFolder2\" />
     <Folder Include="Template\NewFolder1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
