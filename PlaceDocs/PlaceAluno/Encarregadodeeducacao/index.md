@@ -84,5 +84,6 @@ a) Faltas e testes marcados
 > [!NOTE]  
 > Em caso de esquecimento da palavra-passe, devem dirigir-se à escola e solicitar novo código de acesso. Este código deve ser introduzido onde se lê "**Recuperação palavra-passe**". 
 
+
 > [!CAUTION]  
 > Há apenas um encarregado de educação! Este deve, sempre, garantir a segurança e proteção dos dados pessoas da criança/aluno. Deve manter o acesso às aplicações do Place em segurança.  

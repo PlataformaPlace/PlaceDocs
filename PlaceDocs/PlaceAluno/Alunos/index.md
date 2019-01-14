@@ -12,7 +12,7 @@ Os alunos com idades superiores a 13 anos, que frequentem estabelecimentos de en
 
 
 
-Desta forma, é gerado um código pessoal e intransmisivel, onde o aluno deve usá-lo para criar a sua conta no Place Aluno. 
+Desta forma, é gerado um código pessoal e intransmissível, onde o aluno deve usá-lo para criar a sua conta no Place Aluno. 
 
 
 
@@ -67,4 +67,4 @@ a) Faltas e testes marcados
 
 
 > [!CAUTION]  
-> Neste acesso é importante que os alunos usem somente os seus dados ( e não alguns dados do encarregado de educação).
+> Neste acesso é importante que os alunos usem somente os seus dados (e não alguns dados do encarregado de educação).

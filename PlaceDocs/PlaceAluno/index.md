@@ -17,7 +17,7 @@ Os **encarregados de educação** terão acesso:
 
 - **Disciplinas** em que se encontram matriculados no presente ano letivo, com indicação das respetivas faltas justificadas e injustificadas, assim como detalhe temporal sobre as mesmas;
 
-- **Avaliação** para os estabelicimentos de ensino do 2º, 3º ciclo e Secundário. 
+- **Avaliação** para os estabelecimentos de ensino do 2º, 3º ciclo e Secundário. 
 
 - **Valores a pagar** em creches, PE e 1º ciclo, referentes a alimentação ou mensalidades, junto de informação para a realização do pagamento;
 
