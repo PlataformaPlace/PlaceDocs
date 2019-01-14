@@ -10,6 +10,8 @@ Os alunos com idades superiores a 13 anos, que frequentem estabelecimentos de en
 
 ![Novapass](../images/Place21/Alunos/novapass.PNG)
 
+
+
 Desta forma, é gerado um código pessoal e intransmisivel, onde o aluno deve usá-lo para criar a sua conta no Place Aluno. 
 
 
