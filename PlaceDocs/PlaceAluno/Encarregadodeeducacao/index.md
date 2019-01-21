@@ -18,8 +18,6 @@ Para que o acesso seja feito corretamente, a **escola deve**:
 
 Ao clicar neste item, **vai gerar um código** de acesso, o qual deve fornecer a cada encarregado de educação que solicite. 
 
-![Codigo](../../images/Place21/Alunos/Codigo.PNG)
-
 
 > [!IMPORTANT]  
 > Em caso de esquecimento da palavra-passe, pode clicar em **nova palavra-passe**. No caso de haver mudança do encarregado de educação, a escola deve clicar em **revogar acesso** ao anterior encarregado de educação. A qualquer momento, caso seja necessário e devidamente justificado, pode criar um **novo encarregado de educação**. 
