@@ -87,3 +87,56 @@ a) Faltas e testes marcados
 
 > [!CAUTION]  
 > Há apenas um encarregado de educação! Este deve, sempre, garantir a segurança e proteção dos dados pessoas da criança/aluno. Deve manter o acesso às aplicações do Place em segurança.  
+
+
+## Recuperação da palavra-passe
+
+Torna-se fundamental manter o **utlizador** e **palavra-passe** bem seguros, de forma a evitar esquecimento ou extravio dos mesmos.
+
+No entanto, no caso de esquecimento de um dos elementos indispensáveis para o login do Place Aluno, deve clicar em "Recuperação da palavra-chave"
+
+![Recuperacao](../../images/Place21/Alunos/recuperacao.PNG)
+
+Deve fazer dois passos fundamentais:
+
+**1º Passo**
+
+Antes da recuperação do mesmo, deve **valiar** o seu email usado para o acesso da aplicação. Deve:
+
+- Clicar em email
+- Introduz o seu **email** 
+- Clica em **validar** 
+
+![Validação](../../images/Place21/Alunos/validação.PNG)
+
+
+![Email](../../images/Place21/Alunos/email.PNG)
+
+Depois de **validar**, reberá no seu email a confirmação do mesmo para poder finalizar o processo.
+
+![Tempsnip](../../images/Place21/Alunos/tempsnip.png)
+
+Para finalizar, deve clicar em **Confirmar email**
+
+**2º Passo**
+
+Depois de ter o email validado, deve passar a parte de recuperar o código de acesso.
+
+Deve clicar em **Place (Código de Recuperação)**
+
+![Codigorecuperacao](../../images/Place21/Alunos/codigorecuperacao.PNG)
+
+Depois irá receber um email para poder recuperar o código de acesso. 
+
+![Recuperacaocodigo](../../images/Place21/Alunos/Recuperacaocodigo.png)
+
+- Deve clicar em **Recuperar palavra-chave**
+- Será disponibilizado um novo ecrã, onde permite criar uma nova palavra-passe e a sua confirmação. 
+
+![Alteracaopase](../../images/Place21/Alunos/alteracaopase.PNG)
+
+Para finalizar, clique em **alterar palavra-chave** para poder guardar as informações introduzidas. 
+
+
+> [!NOTE]  
+> Caso não consiga recuperar o seu código de acesso, entre em contato com a nossa plataforma. 
