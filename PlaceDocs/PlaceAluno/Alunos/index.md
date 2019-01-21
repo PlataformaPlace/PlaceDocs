@@ -68,3 +68,7 @@ a) Faltas e testes marcados
 
 > [!CAUTION]  
 > Neste acesso é importante que os alunos usem somente os seus dados (e não alguns dados do encarregado de educação).
+
+
+> [!IMPORTANT]  
+> Em caso de esquecimento da palavra-passe, o aluno deve dirigir-se à secretaria da escola ou ao DT e solicitar uma novo código de acesso. 

@@ -91,7 +91,7 @@ a) Faltas e testes marcados
 
 ## Recuperação da palavra-passe
 
-Torna-se fundamental manter o **utlizador** e **palavra-passe** bem seguros, de forma a evitar esquecimento ou extravio dos mesmos.
+Torna-se fundamental manter o **utilizador** e **palavra-passe** bem seguros, de forma a evitar esquecimento ou extravio dos mesmos.
 
 No entanto, no caso de esquecimento de um dos elementos indispensáveis para o login do Place Aluno, deve clicar em "Recuperação da palavra-chave"
 
@@ -101,7 +101,7 @@ Deve fazer dois passos fundamentais:
 
 **1º Passo**
 
-Antes da recuperação do mesmo, deve **valiar** o seu email usado para o acesso da aplicação. Deve:
+Antes da recuperação do mesmo, deve **validar** o seu email usado para o acesso da aplicação. Deve:
 
 - Clicar em email
 - Introduz o seu **email** 
@@ -112,7 +112,7 @@ Antes da recuperação do mesmo, deve **valiar** o seu email usado para o acesso
 
 ![Email](../../images/Place21/Alunos/email.PNG)
 
-Depois de **validar**, reberá no seu email a confirmação do mesmo para poder finalizar o processo.
+Depois de **validar**, receberá no seu email a confirmação do mesmo para poder finalizar o processo.
 
 ![Tempsnip](../../images/Place21/Alunos/tempsnip.png)
 
