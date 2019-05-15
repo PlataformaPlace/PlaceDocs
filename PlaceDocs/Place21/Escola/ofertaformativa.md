@@ -4,9 +4,24 @@
 
 A Plataforma Place disponibiliza, todos os anos letivos, um separador designado **Oferta Educativa Formativa**, o qual visa estimar e apresentar os tipos de cursos que as escolas pretendem oferecer, os ciclos que pretende exercer, o número estimado de alunos matriculados e o número de turmas que pretende ter em cada tipo de curso. 
 
-Para o ano letivo 2018/2019, a inserção da oferta formativa e educativa de cada escola deverá decorrer entre **14 e 18 de maio** de 2018.  
 
-Cada escola deve introduzir os cursos (novos e os de continuidade), previamente *autorizados pela DRE*. A introdução de cursos não validados pela DRE é da **exclusiva responsabilidade da escola**.
+Informamos que a Oferta Formativa Educativa 2019/2020 já está disponível na Plataforma Place. A Direção Executiva de cada escola deve, no seu perfil de entrada, seguir os seguintes passos: 
+- Mudar de ano letivo 2018/2019 para **2019/2020**
+
+*No separador **Cursos***
+
+- Copiar os cursos do ano 2018/2019 que tenham continuidade para o ano 2019/2020
+- Criar os cursos novos que tenham sido previamente aprovados pela DRE.
+
+*No separador **Oferta Formativa Educativa***
+
+- Editar os cursos existentes e preencher as previsões do nº de turmas e nº de alunos para cada ano letivo.
+Mais informamos que a Oferta Formativa estará disponível publicamente no seguinte endereço: [Oferta Formativa 2019](http://place.madeira.gov.pt/ofertaformativa/), onde poderá ser consultada por toda a comunidade educativa.
+
+
+Para o ano letivo 2019/2020, a inserção da oferta formativa e educativa de cada escola deverá decorrer entre **13 e 17 de maio** de 2019.  
+
+
 
 > [!IMPORTANT]  
 > A Plataforma Place apenas garante o registo das possibilidades disponíveis. Não as aprova nem assegura inserções não autorizadas. 

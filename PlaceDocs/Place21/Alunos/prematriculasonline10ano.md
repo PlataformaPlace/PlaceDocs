@@ -2,7 +2,7 @@
 
 
 
-Para o ano letivo 2018/2019 iremos disponibilizar novas aplicações para as pré-matrículas online para os alunos que **vão ingressar nas escolas secundárias** públicas e privadas da RAM. Estas aplicações vistam a facilitar o processo de gestão escolar e melhorar o processo, diminuindo o congestionamento e tempo de espera dos alunos no ato de matrícula. 
+À semelhança do ano anterior, iremos disponibilizar novas aplicações para as pré-matrículas online para os alunos que **vão ingressar nas escolas secundárias** públicas e privadas da RAM. Estas aplicações vistam a facilitar o processo de gestão escolar e melhorar o processo, diminuindo o congestionamento e tempo de espera dos alunos no ato de matrícula. 
 
 
 Todos os alunos que transitam para o secundário e vão matricular-se numa escola diferente da que frequentaram no 9º ano (ou equivalente), podem realizar uma pré-matrícula utilizando o token (código de 12 carateres) disponibilizado no fundo do **registo biográfico** individual. Este token deve ser **utilizado exclusivamente pelo aluno** para aceder à aplicação Place Aluno.

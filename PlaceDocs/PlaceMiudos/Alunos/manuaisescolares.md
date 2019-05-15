@@ -20,7 +20,7 @@ Para poder exportar o documento deve:
 
 A escola deve usar esta declaração, pois a mesma defende as Escolas certificando apenas, o que é possível, face à documentação apresentada pelos encarregados de educação, traduzindo a situação atual e não outra futura que venha a ser demonstrada mais tarde. 
 
-Este ano, as candidaturas poderão ser realizadas através de uma [Plataforma online](http://manuaisescolares.cm-funchal.pt/), dispensando a necessidade de deslocação à Loja do Munícipe do Funchal.  
+Este ano, as candidaturas poderão ser realizadas através de uma [Plataforma online](http://funchalapoia.cm-funchal.pt/manuaisescolares), dispensando a necessidade de deslocação à Loja do Munícipe do Funchal.  
 
 No que respeita ao 1º ciclo, os documentos necessários para submeter a candidatura são:
 
@@ -30,3 +30,9 @@ No que respeita ao 1º ciclo, os documentos necessários para submeter a candida
 
 - **Declaração de matrícula**, com indicação se é abrangido/a pela ASE. A declaração será emitida pela escola.
 
+> [!IMPORTANT]  
+> Os alunos que realizaram novas inscrições (Alunos que vão ingressar no 1º ano) terão acesso à declaração posteriormente. Deve aguardar a validação das inscrições.
+
+
+> [!IMPORTANT]  
+> Os alunos que realizaram inscrições nos estabelecimentos públicos, devem solicitar a declaração de apoio aos manuais escolares a escola onde ficarem a inscrição e não onde foram colocados.

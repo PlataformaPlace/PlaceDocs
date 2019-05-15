@@ -1,11 +1,11 @@
 ﻿# Oferta Formativa
 
-Para o ano 2018/2019, à semelhança dos anos anteriores, a plataforma Place disponibiliza um site referente à Oferta educativa e formativa, onde os Encarregados de educação e/ou os alunos interessados poderão consultar e analisar as escolas, os cursos, as disciplinas, podendo comparar e escolher os cursos que mais se adequam ao seu perfil. 
+Para o ano 2019/2020, à semelhança dos anos anteriores, a plataforma Place disponibiliza um site referente à Oferta educativa e formativa, onde os Encarregados de educação e/ou os alunos interessados poderão consultar e analisar as escolas, os cursos, as disciplinas, podendo comparar e escolher os cursos que mais se adequam ao seu perfil. 
 
 Poderá consultar a oferta formativa apresentada no link a baixo:
 
 
-   [Oferta Formativa 2018](http://place.madeira.gov.pt/ofertaformativa/)
+   [Oferta Formativa 2019](http://place.madeira.gov.pt/ofertaformativa/)
 
 
 > [!NOTE]  
