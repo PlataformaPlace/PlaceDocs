@@ -5,7 +5,7 @@ Para o ano Letivo 2019/2020 já estão abertas as pré-inscrições para os alun
 Todas as escolas da Região, terão ao seu dispor o número de turmas a frequentar o 9º ano e aos respetivos alunos.
 
 
-![Preinscriçoes](../../images/Place21/Alunos/preinscriçoes.PNG)
+![Preinscricoes2019](../../images/Place21/Alunos/preinscricoes2019.PNG)
 
 > [!NOTE]  
 > Deve baixar e ver a informação disponível que aparece nesse ecrã de forma respeitar todos os procedimentos necessários.
