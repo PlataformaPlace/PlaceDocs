@@ -144,9 +144,14 @@
     <Content Include="images\Place21\Alunos\alunoseturmas.PNG" />
     <Content Include="images\Place21\Alunos\ASE.PNG" />
     <Content Include="images\Place21\Alunos\asemiudos.PNG" />
+    <Content Include="images\Place21\Alunos\atividadedefinida.PNG" />
+    <Content Include="images\Place21\Alunos\atividades.PNG" />
     <Content Include="images\Place21\Alunos\atualizar.PNG" />
+    <Content Include="images\Place21\Alunos\cargahorária21.PNG" />
     <Content Include="images\Place21\Alunos\cargos.PNG" />
     <Content Include="images\Place21\Alunos\CaTivi.PNG" />
+    <Content Include="images\Place21\Alunos\cgh1.PNG" />
+    <Content Include="images\Place21\Alunos\CGH2.PNG" />
     <Content Include="images\Place21\Alunos\cientificohumanistico.PNG" />
     <Content Include="images\Place21\Alunos\Clicarcomparar.PNG" />
     <Content Include="images\Place21\Alunos\Codigo.PNG" />
@@ -166,9 +171,11 @@
     <Content Include="images\Place21\Alunos\dadosprofissionais.PNG" />
     <Content Include="images\Place21\Alunos\DARACESSO.PNG" />
     <Content Include="images\Place21\Alunos\declaracao.PNG" />
+    <Content Include="images\Place21\Alunos\definir.PNG" />
     <Content Include="images\Place21\Alunos\desconsiderarfaltas.PNG" />
     <Content Include="images\Place21\Alunos\Diploma.PNG" />
     <Content Include="images\Place21\Alunos\disciplinas.PNG" />
+    <Content Include="images\Place21\Alunos\ee.PNG" />
     <Content Include="images\Place21\Alunos\email.PNG" />
     <Content Include="images\Place21\Alunos\entrar.PNG" />
     <Content Include="images\Place21\Alunos\escola.PNG" />
@@ -203,6 +210,7 @@
     <Content Include="images\Place21\Alunos\preferencias.PNG" />
     <Content Include="images\Place21\Alunos\preinscricoes2019.PNG" />
     <Content Include="images\Place21\Alunos\preinscriçoes.PNG" />
+    <Content Include="images\Place21\Alunos\Projetos.PNG" />
     <Content Include="images\Place21\Alunos\publicar.PNG" />
     <Content Include="images\Place21\Alunos\recuperacao.PNG" />
     <Content Include="images\Place21\Alunos\Recuperacaocodigo.png" />
@@ -212,6 +220,7 @@
     <Content Include="images\Place21\Alunos\sumarios.PNG" />
     <Content Include="images\Place21\Alunos\tempsnip.png" />
     <Content Include="images\Place21\Alunos\tic.PNG" />
+    <Content Include="images\Place21\Alunos\tipodeatividade.PNG" />
     <Content Include="images\Place21\Alunos\tipodecurso.PNG" />
     <Content Include="images\Place21\Alunos\tiposdecargos.PNG" />
     <Content Include="images\Place21\Alunos\titulares.PNG" />
