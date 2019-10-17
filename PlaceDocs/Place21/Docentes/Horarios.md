@@ -40,7 +40,7 @@ No que concerne aos:
 - Vigilâncias (aplica-se apenas ao 1º ciclo)
 
 > [!IMPORTANT]  
-> Deve aceder (no separador dos docentes) ao menu (lado direito) e clicar em **Atividades/definições**. 
+> Deve aceder (no separador dos docentes) ao menu (lado direito) e clicar em **Atividades/definições** para pode criar primeiramente os projetos, clubes e vigilâncias. 
 
 ![Projetos](../../images/Place21/Alunos/Projetos.PNG)
 

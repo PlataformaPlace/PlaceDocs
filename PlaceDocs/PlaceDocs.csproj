@@ -190,6 +190,7 @@
     <Content Include="images\Place21\Alunos\ficheirosnotas.PNG" />
     <Content Include="images\Place21\Alunos\Gerarocorrencias.PNG" />
     <Content Include="images\Place21\Alunos\horario.PNG" />
+    <Content Include="images\Place21\Alunos\horariopre.PNG" />
     <Content Include="images\Place21\Alunos\importacaonotas.PNG" />
     <Content Include="images\Place21\Alunos\importacaorb.PNG" />
     <Content Include="images\Place21\Alunos\interrupcoes.PNG" />
@@ -206,6 +207,7 @@
     <Content Include="images\Place21\Alunos\ofertaformativa.PNG" />
     <Content Include="images\Place21\Alunos\place21.PNG" />
     <Content Include="images\Place21\Alunos\placealuno.PNG" />
+    <Content Include="images\Place21\Alunos\preeee.PNG" />
     <Content Include="images\Place21\Alunos\preescolar.PNG" />
     <Content Include="images\Place21\Alunos\preferencias.PNG" />
     <Content Include="images\Place21\Alunos\preinscricoes2019.PNG" />

@@ -1,206 +1,88 @@
 ﻿# Horários
 
-*"Tempo letivo"- Carga horária semanal organizada em períodos de 45/50 minutos*... *Em situações justificadas, a escola poderá utilizar uma diferente organização da carga horária semanal dos alunos devendo, contudo, respeitar os totais, assim como o máximo global indicado para cada ciclo e ano de escolaridade."*
 
-[Portaria 265/2016](http://joram.madeira.gov.pt/joram/1serie/Ano%20de%202016/ISerie-121-2016-07-13sup.pdf)
+“Incumbe às escolas, no âmbito das competências legalmente cometidas aos órgãos de gestão e administração respetivos, proceder à organização e distribuição do serviço docente em sede das componentes letiva e não letiva, em quaisquer das suas modalidades (…)”
 
+                                                                Despacho n.º 143/2013
 
+Para este novo ano letivo, a Plataforma Place sentiu necessidade de reajustar e reorganizar o programa dos horários, de forma a dar resposta às escolas e às entidades responsáveis pela gestão do pessoal docente. 
 
-**Creche, Pré-Escolar e 1º Ciclo*
- 
-| Componente         | Carga Horária           | Total  |
-|:--------------- |:----------------:| :-----:|
-| **Componente Letiva**     | 25 horas | 25 horas |
-|**Componente não Letiva**     | 4 horas        |  4 horas|
 
+Segundo a legislação em vigor (Despacho nº143/2013), no horário de trabalho do pessoal docente é  obrigatoriamente registada a **totalidade das horas** correspondentes à duração da respetiva prestação semanal de trabalho, com exceção da componente não letiva destinada a **trabalho individual** e da participação em reuniões de natureza pedagógica.
 
-É importante que as escolas atribuam um horário a todos os docentes a lecionar na escola para que possa haver uma melhor gestão escolar.
+A organização do horário semanal dos docentes da pré-escolar e 1.º ciclo do ensino básico faz-se nos seguintes termos:
 
+![Horariopre](../../images/Place21/Alunos/horariopre.PNG)
 
 
-> [!WARNING]  
-> Na criação de horários, deve tomar atenção às datas de início e de fim. Caso o professor seja substituído, por alguma razão, deve terminar o horário do docente e criar um novo para o docente que irá substituir. 
+Desta forma, comecemos por aceder ao separador dos **Docentes**, clicar em cima da nome da docente que queremos trabalhar: 
 
+Apresentamos várias atividades legisladas para a construção do horário do professor, nas quais, as escolas irão completar de acordo com a gestão interna. 
 
-A escola deve manter os horários sempre atualizados, podendo editá-los sempre que for necessário. 
 
-**Ano 2018/2019**
+![Atividades](../../images/Place21/Alunos/atividades.PNG)
 
-Para a construção dos horários dos docentes devem seguir as seguintes instruções:
+Vamos exemplificar o caso da ***Atividade curricular/educativa***:
 
-Tendo em conta que todos os alunos estão matriculados e as turmas estão construídas deve:
+Neste campo escolhemos:
+- Turma
+- Tipo de componente 
+- Disciplinas
+- Data de início (Muito importante por causa da **geração de sumários**)
 
-1. Validar as interrupções letivas 
+No que diz respeito à descrição e as notas, estas são facultativas para as escolas. 
 
-![Interrupcoes](../../images/Place21/Alunos/interrupcoes.PNG)
+Este procedimento aplica-se exatamente igual a todas as outras atividades presentes na construção dos horários dos docentes e das turmas. 
 
-2. Verificar as salas das atividades ou de aulas. 
+No que concerne aos: 
 
-![Salas](../../images/Place21/Alunos/salas.PNG)
-
-3. Assegurar que todos os **docentes** estão inseridos
-
-4. Verificar os dados profissionais de todos os docentes (editar a ficha pessoal). Preencher corretamente todos os itens. 
-
-![Dadosprofissionais](../../images/Place21/Alunos/dadosprofissionais.PNG)
-
-Depois de estar criada e preenchida a ficha de cada docente comece por organizar:
-
-                                      **A Curricular**
-Todas as disciplinas que **fazem parte do Currículo**:
-
-**1º Ciclo**
-
-- Português
-- Matemática
-- Estudo do Meio
-- Educação Artística
-- Educação Física
-- Apoio ao Estudo
-- Inglês (3º e 4º ano
-- Educação Moral e Religiosa
-
-
-**Titulares e Educadores**
-
-a) Selecionar o docente clicando em cima do nome 
-
-b) Abre os tipos de Cargos (Turmas e Disciplinas)
-
-**1º Ciclo**
-
-![Titulares](../../images/Place21/Alunos/titulares.PNG)
-
-**Pré-Escolar**
-
-![Preescolar](../../images/Place21/Alunos/preescolar.PNG)
-
-**Creche**
-
-![Creche](../../images/Place21/Alunos/creche.PNG)
-
-Em cada uma das valências deve preencher corretamente:
-
-- Tipo de componente
-- Disciplina
-- Turma/Sala
-- Colocar Data de Início
-- Guardar informações. 
-
-
-                   A Curricular (mas que não são dadas pelo titular da turma)
-
-Fazemos o mesmo procedimento que os titulares, **apenas mudamos as disciplinas**:
-
-![Extras](../../images/Place21/Alunos/extras.PNG)
-
-Fazemos este procedimento para as disciplinas de:
-
-- Educação Física
-- Educação Artística
-- Inglês (1º e 2º ano encontram-se na **Oferta Complementar**; 3º e 4º ano já fazem parte do **Currículo**)
-- Apoio ao Estudo
-- Educação Moral e Religiosa
-
-
-No caso dos docentes que auxiliam na disciplina de **TIC**, devem fazer o mesmo procedimento, escolhendo:
-
-- **Componente Curricular Transversal**
-- Disciplina
-- Turma 
-- Data de início 
-
-
-![Tic](../../images/Place21/Alunos/tic.PNG)
-
-## Cargos 
-
-Os cargos inserem-se nas áreas dadas que **não façam parte do Currículo**
-
-Em relação a este assunto houve uma pequena alteração:
-
-1. Cabe a Escola **criar os seus cargos**. Para tal, deverá aceder ao separador Docentes e ir ao lado direito ao Menu. Clicar nas Definições de Cargos. 
-
-![Menu](../../images/Place21/Alunos/menu.PNG)
-
-
-![Cargos](../../images/Place21/Alunos/cargos.PNG)
-a) Descrever o Cargo (dá o nome que achar melhor, de acordo com o interesse da escola)
-b) Escolher o tipo de cargo
-c) Gravar
-
-**Exemplo** dos Vários cargos que as escolas podem adicionar
-
-![Tiposdecargos](../../images/Place21/Alunos/tiposdecargos.PNG)
-
-No caso do Ensino Especial, ou melhor, da **Educação para Inclusão** devem igualmente criar cargos com esta designação, salientando a **valência** caso seja necessário.
-
-- Educação para a Inclusão pré-escolar
-- Educação para a Inclusão 1º Ciclo
-
-
-
-Depois de ter os cargos todos criados, deve aceder ao separador dos Docentes e aí preencher os **"Cargos e Atividades"**
-
-![Ca Tivi](../../images/Place21/Alunos/CaTivi.PNG)
-
-- Mencionar o que cada docente leciona. É importante preencher o tipo de cargo para que as horas sejam definidas, preenchidas e entendidas corretamente. 
-
-![Lecionacao](../../images/Place21/Alunos/lecionacao.PNG)
-
-
-
-### Turmas
-
-Os horários das turmas são criados nas **respetivas turmas e não nos docentes**
-
-1. Deve aceder a **turma**
-2. Clicar no separador **horário**
-3. Editar
-4. Criar blocos:
-
-- Escolher o dia da semana
-- Horário da aula
-- Componente
-- Disciplina
-- Sala
-- Docente
-- Gravar
-
-![Criarhorario](../../images/Place21/Alunos/criarhorario.PNG)
-
-
-> [!NOTE]  
-> Sempre que criarem novos blocos com data de início anterior a data de criação, devem atualizar o bloco desde o início para que os sumários sejam gerados. Este procedimento é feito no **horário da turma** e não no do professor.
-
-![Atualizar](../../images/Place21/Alunos/atualizar.PNG)
-
-Exemplo de Horário da Titular do 1º Ciclo
-
-![Horario](../../images/Place21/Alunos/horario.PNG)
-
-
-                                      **Tipos de Cargos**  
-
-
-| Tipos de **Cargos** existentes          | Designações (eventuais)  |
-| --------------- |:----------------:|
-| Acerto de Horário    | Amamentação, Sindicatos, Antiguidade, Intervalos... |
-| AEC´s      | Biblioteca, Ed. Física, Inglês, Música, TIC, Estudo...         |
-| Apoios    | Todo o tipo de apoio fornecido pela Escola |
-| Cargos de Gestão Executiva    | Coordenação |
-| Cargos de Gestão Intermédia      | Coordenador Regional...         |
-| Clubes   | Todo o tipo de clubes criados pela escola     |
-| OTL´s    | OTL |
-| Outras atividades em trabalho na Escola     | Coordenador de TIC, Tratamento documental, Pesquisa e Organização de Matéria...         |
-| Projetos    | Todos os projetos criados pela escola     |
-| Substituições    |  |
-| Tempo Letivo (Fora da escola)    | Direção Artística e Multimédia        |
-| Tempo não letivo (Fora da escola)    | Preparação de Atividades, Reuniões...       |
-| Titulares de Turma    |  |
-| Vigilância     | Supervisão no Recreio, no refeitório...    |
+- Projetos
+- Clubes
+- Vigilâncias (aplica-se apenas ao 1º ciclo)
 
 > [!IMPORTANT]  
-> As designações apresentadas anteriormente são apenas algumas ideias existentes. Não deverão ser únicas e exclusivas (não existem só estas). Cada escola pode criar a designação que achar mais adequada ao tipo de cargo que deseja anexar.
+> Deve aceder (no separador dos docentes) ao menu (lado direito) e clicar em **Atividades/definições** para pode criar primeiramente os projetos, clubes e vigilâncias. 
 
+![Projetos](../../images/Place21/Alunos/Projetos.PNG)
+
+
+No que diz respeito aos **Cargos**, sendo a atividade que mais suscita dúvidas aos criadores dos horários, já estão **todos** pré definidos consoante a atividade escolhida. 
+
+![Cargos](../../images/Place21/Alunos/cargos.PNG)
+
+Os Cargos que aparecem EE no início destina-se ao Ensino Especial.
+
+![Ee](../../images/Place21/Alunos/ee.PNG)
+
+
+Ao preenchemos os cargos, é importante salientar onde se emquadra a respetiva atividade, colocando um "visto" em cima do quadradinho. (Bloquea aqueles que não se enquadram).
+
+
+![Definir](../../images/Place21/Alunos/definir.PNG)
+
+No que diz respeito ao Crédito Global Horário, nos extras apresentamos uma série de artigos, os quais deixamos aqui esclarecimento (fornecido pela DRIG)
+
+![Cgh1](../../images/Place21/Alunos/cgh1.PNG)
+
+![C G H2](../../images/Place21/Alunos/CGH2.PNG)
+
+
+Quando as atividades estiverem todas bem definidas no perfil do professor (separador atividades), está na altura de desenhar o horário.
+
+![Preeee](../../images/Place21/Alunos/preeee.PNG)
+
+> [!WARNING]  
+> Se for **Atividade Curricular/Educativa**, o horário é desenado no **horário da Turma**. As restantes atividades são desenhadas no **horário do professor**.
+
+Já no separador **horários**, devemos clicar em **Editar** e aqui começamos a preencher os dados importantes: 
+- Dia
+- Horário
+- Atividade 
+- Sala
+
+Neste sentido, cabe às escolas ajustar pontualmente os horários dos docentes às necessidades escolares que ocorram ao longo do ano letivo por forma a se manter a totalidade da carga horária das componentes letiva e não letiva.
+
+
+> [!CAUTION]  
+> Informamos que, neste momento, os totalizadores das horas ainda não estão operacionais. 
 
