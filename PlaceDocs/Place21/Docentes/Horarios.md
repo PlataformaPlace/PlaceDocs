@@ -18,7 +18,7 @@ Desta forma, comecemos por aceder ao separador dos **Docentes**, clicar em cima 
 
 São apresentadas várias atividades legisladas para a construção do horário do professor, nas quais, as escolas irão completar de acordo com a gestão interna. 
 
-[Matriz dos Horários](../../documentos/Matrizhorarios.pdf)
+[Matriz dos Horários](../../documentos/NovaMatriz.pdf)
 
 
 ![Atividades](../../images/Place21/Alunos/atividades.PNG)
