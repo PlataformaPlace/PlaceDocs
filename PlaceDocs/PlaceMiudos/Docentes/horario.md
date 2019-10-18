@@ -30,7 +30,11 @@ Neste campo escolhemos:
 - Disciplinas
 - Data de início (Muito importante por causa da **geração de sumários**)
 
-No que diz respeito à descrição e às notas, estas são facultativas para as escolas. 
+![Ativicurri](../../images/Place21/Alunos/ativicurri.PNG)
+
+![Turmaaa](../../images/Place21/Alunos/turmaaa.PNG)
+
+No que diz respeito à **descrição e às notas**, estas são **facultativas** para as escolas. 
 
 Este procedimento aplica-se exatamente igual a todas as outras atividades presentes na construção dos horários dos docentes e das turmas. 
 

@@ -144,6 +144,7 @@
     <Content Include="images\Place21\Alunos\alunoseturmas.PNG" />
     <Content Include="images\Place21\Alunos\ASE.PNG" />
     <Content Include="images\Place21\Alunos\asemiudos.PNG" />
+    <Content Include="images\Place21\Alunos\ativicurri.PNG" />
     <Content Include="images\Place21\Alunos\atividadedefinida.PNG" />
     <Content Include="images\Place21\Alunos\atividades.PNG" />
     <Content Include="images\Place21\Alunos\atualizar.PNG" />
@@ -229,6 +230,7 @@
     <Content Include="images\Place21\Alunos\tiposdecargos.PNG" />
     <Content Include="images\Place21\Alunos\titulares.PNG" />
     <Content Include="images\Place21\Alunos\Token.PNG" />
+    <Content Include="images\Place21\Alunos\turmaaa.PNG" />
     <Content Include="images\Place21\Alunos\validação.PNG" />
     <Content Include="images\Place21\Alunos\visualizarcurso.PNG" />
     <Content Include="images\PlaceMiudos\Alunos\cargos.PNG" />
