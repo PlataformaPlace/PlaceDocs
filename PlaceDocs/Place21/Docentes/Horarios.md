@@ -42,10 +42,12 @@ No que concerne aos:
 > [!IMPORTANT]  
 > Deve aceder (no separador dos docentes) ao menu (lado direito) e clicar em **Atividades/definições** para pode criar primeiramente os projetos, clubes e vigilâncias. 
 
+
 ![Projetos](../../images/Place21/Alunos/Projetos.PNG)
 
+Depois de criados os Projetos, Clubes e Vigilâncias é que deve completar as atividades do docente no seu perfil, no seu horário.
 
-No que diz respeito aos **Cargos**, sendo a atividade que mais suscita dúvidas aos criadores dos horários, já estão **todos** pré definidos consoante a atividade escolhida. 
+No que diz respeito aos **Cargos**, sendo a atividade que mais suscita dúvidas aos criadores dos horários, já estão **todos** pré definidos pela nossa plataforma.  
 
 ![Cargos](../../images/Place21/Alunos/cargos.PNG)
 
@@ -80,6 +82,8 @@ Já no separador **horários**, devemos clicar em **Editar** e aqui começamos a
 - Sala
 
 Neste sentido, cabe às escolas ajustar pontualmente os horários dos docentes às necessidades escolares que ocorram ao longo do ano letivo por forma a se manter a totalidade da carga horária das componentes letiva e não letiva.
+
+Tendo em conta o atraso na disponibilização dos horários, pedimos que às escolas que entrem em contato com o Place (Via email) de forma a solicitar a geração das ocorrências (sumários) deste o início do ano letivo (Referir o dia de início). É igualmente importante salientar o **tempo** que a escolas pretendem que os sumários fiquem abertos (dias, uma semana, duas semanas...).
 
 
 > [!CAUTION]  
