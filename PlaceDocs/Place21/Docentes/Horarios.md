@@ -29,6 +29,11 @@ Neste campo escolhemos:
 - Disciplinas
 - Data de início (Muito importante por causa da **geração de sumários**)
 
+![Exem](../../images/Place21/Alunos/exem.PNG)
+
+
+![Curri](../../images/Place21/Alunos/curri.PNG)
+
 No que diz respeito à descrição e as notas, estas são facultativas para as escolas. 
 
 Este procedimento aplica-se exatamente igual a todas as outras atividades presentes na construção dos horários dos docentes e das turmas. 

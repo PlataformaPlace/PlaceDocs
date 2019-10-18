@@ -162,6 +162,7 @@
     <Content Include="images\Place21\Alunos\copiarcursos.PNG" />
     <Content Include="images\Place21\Alunos\creche.PNG" />
     <Content Include="images\Place21\Alunos\criarhorario.PNG" />
+    <Content Include="images\Place21\Alunos\curri.PNG" />
     <Content Include="images\Place21\Alunos\cursos.PNG" />
     <Content Include="images\Place21\Alunos\Cursosofertaforativa.PNG" />
     <Content Include="images\Place21\Alunos\cursossss.PNG" />
@@ -181,6 +182,7 @@
     <Content Include="images\Place21\Alunos\escola.PNG" />
     <Content Include="images\Place21\Alunos\escolas.PNG" />
     <Content Include="images\Place21\Alunos\eventos.PNG" />
+    <Content Include="images\Place21\Alunos\exem.PNG" />
     <Content Include="images\Place21\Alunos\Exportacoesalunos.PNG" />
     <Content Include="images\Place21\Alunos\exportacoesprof.PNG" />
     <Content Include="images\Place21\Alunos\exportações.PNG" />
