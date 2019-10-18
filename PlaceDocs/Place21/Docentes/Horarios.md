@@ -16,7 +16,7 @@ A organização do horário semanal dos docentes dos 2.º e 3.º ciclos do ensin
 
 Desta forma, comecemos por aceder ao separador dos **Docentes**, clicar em cima da nome da docente que queremos trabalhar: 
 
-Apresentamos várias atividades legisladas para a construção do horário do professor, nas quais, as escolas irão completar de acordo com a gestão interna. 
+São apresentadas várias atividades legisladas para a construção do horário do professor, nas quais, as escolas irão completar de acordo com a gestão interna. 
 
 
 ![Atividades](../../images/Place21/Alunos/atividades.PNG)
@@ -40,28 +40,32 @@ No que concerne aos:
 - Vigilâncias (aplica-se apenas ao 1º ciclo)
 
 > [!IMPORTANT]  
-> Deve aceder (no separador dos docentes) ao menu (lado direito) e clicar em **Atividades/definições** para pode criar primeiramente os projetos, clubes e vigilâncias. 
-
+> Deve aceder (no separador dos docentes) ao menu (lado direito) e clicar em **Atividades/definições** para poder criar inicialmente os projetos e clubes. 
 
 ![Projetos](../../images/Place21/Alunos/Projetos.PNG)
 
-Depois de criados os Projetos, Clubes e Vigilâncias é que deve completar as atividades do docente no seu perfil, no seu horário.
 
-No que diz respeito aos **Cargos**, sendo a atividade que mais suscita dúvidas aos criadores dos horários, já estão **todos** pré definidos pela nossa plataforma.  
+No que diz respeito aos **Cargos**, sendo a atividade que mais suscita dúvidas aos criadores dos horários, já se encontram **todos** pré-definidos, devendo ser selecionados de acordo com o pretendido. 
+
+> [!INFO]  
+> Recomendamos a utilização da pesquisa por texto, de modo a filtrar os cargos disponíveis e facilitar a seleção.
 
 ![Cargos](../../images/Place21/Alunos/cargos.PNG)
 
-Os Cargos que aparecem EE no início destina-se ao Ensino Especial.
+> [!IMPORTANT]  
+> **Para os apoios, a escolha da turma é opcional.**
+
+Os Cargos que contêm a sigle EE no início destinam-se ao Ensino Especial.
 
 ![Ee](../../images/Place21/Alunos/ee.PNG)
 
 
-Ao preenchemos os cargos, é importante salientar onde se emquadra a respetiva atividade, colocando um "visto" em cima do quadradinho. (Bloquea aqueles que não se enquadram).
+Ao preenchermos os cargos, é importante definir onde se enquadra a carga horária atribuída à respetiva atividade, colocando um "visto" em cima do quadradinho respetivo. (Apenas estão disponíveis as opções válidas).
 
 
 ![Definir](../../images/Place21/Alunos/definir.PNG)
 
-No que diz respeito ao Crédito Global Horário, nos extras apresentamos uma série de artigos, os quais deixamos aqui esclarecimento (fornecido pela DRIG)
+No que diz respeito ao extra do Crédito Global Horário, devem selecionar o artigo respetivo, dos quais apresentamos o seguinte esclarecimento (fornecido pela DRIG)
 
 ![Cgh1](../../images/Place21/Alunos/cgh1.PNG)
 
@@ -73,20 +77,18 @@ Quando as atividades estiverem todas bem definidas no perfil do professor (separ
 ![Atividadedefinida](../../images/Place21/Alunos/atividadedefinida.PNG)
 
 > [!WARNING]  
-> Se for **Atividade Curricular/Educativa**, o horário é desenado no **horário da Turma**. As restantes atividades são desenhadas no **horário do professor**.
+> Se for **Atividade Curricular/Educativa**, o horário é desenhado no **horário da turma**. As restantes atividades são desenhadas no **horário do professor**.
 
-Já no separador **horários**, devemos clicar em **Editar** e aqui começamos a preencher os dados importantes: 
+Já no separador **horários** (tanto da turma como do professor), devemos clicar em **Editar** e aqui começamos a preencher os dados importantes: 
 - Dia
 - Horário
 - Atividade 
 - Sala
 
-Neste sentido, cabe às escolas ajustar pontualmente os horários dos docentes às necessidades escolares que ocorram ao longo do ano letivo por forma a se manter a totalidade da carga horária das componentes letiva e não letiva.
-
-Tendo em conta o atraso na disponibilização dos horários, pedimos que às escolas que entrem em contato com o Place (Via email) de forma a solicitar a geração das ocorrências (sumários) deste o início do ano letivo (Referir o dia de início). É igualmente importante salientar o **tempo** que a escolas pretendem que os sumários fiquem abertos (dias, uma semana, duas semanas...).
+Neste sentido, cabe às escolas ajustar pontualmente os horários dos docentes às necessidades escolares que ocorram ao longo do ano letivo, de forma a ser mantida a totalidade da carga horária das componentes letiva e não letiva.
 
 
 > [!CAUTION]  
-> Informamos que, neste momento, os totalizadores das horas ainda não estão operacionais. 
+> Informamos que, neste momento, os totalizadores das horas ainda não estão totalmente operacionais. 
 
 
