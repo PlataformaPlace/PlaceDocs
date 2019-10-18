@@ -14,6 +14,7 @@ A organização do horário semanal dos docentes da pré-escolar e 1.º ciclo do
 
 ![Horariopre](../../images/Place21/Alunos/horariopre.PNG)
 
+Antes de iniciarmos a abordagem dos horários, sentímos necessitade de apresentar-vos a [Matriz dos Horários](../../documentos/NovaMatriz.pdf) que sustenta toda a parte legal e prática na construção dos mesmos e em simultâneo os [Cargos](../../documentos/cargos.pdf), construídos e enquadrados com base nas necessidades e interesse das escolas da região. 
 
 Desta forma, comecemos por aceder ao separador dos **Docentes**, clicar em cima da nome da docente que queremos trabalhar: 
 

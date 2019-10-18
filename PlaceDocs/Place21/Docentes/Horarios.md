@@ -14,11 +14,11 @@ A organização do horário semanal dos docentes dos 2.º e 3.º ciclos do ensin
 
 ![Cargahorária21](../../images/Place21/Alunos/cargahorária21.PNG)
 
+Antes de iniciarmos a abordagem dos horários, sentímos necessitade de apresentar-vos a [Matriz dos Horários](../../documentos/NovaMatriz.pdf) que sustenta toda a parte legal e prática na construção dos mesmos e em simultâneo os [Cargos](../../documentos/cargos.pdf), construídos e enquadrados com base nas necessidades e interesse das escolas da região. 
+
 Desta forma, comecemos por aceder ao separador dos **Docentes**, clicar em cima da nome da docente que queremos trabalhar: 
 
 São apresentadas várias atividades legisladas para a construção do horário do professor, nas quais, as escolas irão completar de acordo com a gestão interna. 
-
-[Matriz dos Horários](../../documentos/NovaMatriz.pdf)
 
 
 ![Atividades](../../images/Place21/Alunos/atividades.PNG)

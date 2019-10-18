@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="demo.md" />
+    <None Include="Documentos\cargos.pdf" />
     <None Include="Documentos\NovaMatriz.pdf" />
     <None Include="packages.config" />
     <None Include="Place21\Alunos\faltas.md" />
