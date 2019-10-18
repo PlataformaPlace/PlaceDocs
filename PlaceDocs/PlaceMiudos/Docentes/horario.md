@@ -66,12 +66,6 @@ Ao preenchermos os cargos, é importante definir onde se enquadra a carga horár
 
 ![Definir](../../images/Place21/Alunos/definir.PNG)
 
-No que diz respeito ao extra do Crédito Global Horário, devem selecionar o artigo respetivo, dos quais apresentamos o seguinte esclarecimento (fornecido pela DRIG):
-
-![Cgh1](../../images/Place21/Alunos/cgh1.PNG)
-
-![C G H2](../../images/Place21/Alunos/CGH2.PNG)
-
 
 Quando as atividades estiverem todas bem definidas no perfil do professor (separador atividades), está na altura de desenhar o horário.
 
@@ -88,6 +82,7 @@ Já no separador **horários** (tanto da turma como do professor), devemos clica
 
 Neste sentido, cabe às escolas ajustar pontualmente os horários dos docentes às necessidades escolares que ocorram ao longo do ano letivo, de forma a ser mantida a totalidade da carga horária das componentes letiva e não letiva.
 
+Tendo em conta o atraso na disponibilização dos horários, pedimos que às escolas que entrem em contato com o Place (Via email) de forma a solicitar a geração das ocorrências (sumários) deste o início do ano letivo (Referir o dia de início). É igualmente importante salientar o tempo que a escolas pretendem que os sumários fiquem abertos (dias, uma semana, duas semanas...).
 
 > [!CAUTION]  
 > Informamos que, neste momento, os totalizadores das horas ainda não estão totalmente operacionais. 
