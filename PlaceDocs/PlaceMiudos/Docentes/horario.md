@@ -53,6 +53,9 @@ No que respeita aos **Cargos**, sendo a atividade que mais suscita dúvidas aos 
 
 ![Cargos](../../images/Place21/Alunos/cargos.PNG)
 
+> [!IMPORTANT]  
+> **Para os apoios, atividades de enriquecimento do currículo e OTL, a escolha da turma é opcional.**
+
 Os cargos que contêm a sigla EE no início destinam-se ao Ensino Especial.
 
 ![Ee](../../images/Place21/Alunos/ee.PNG)
