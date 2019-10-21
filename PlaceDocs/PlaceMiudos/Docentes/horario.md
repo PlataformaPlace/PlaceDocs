@@ -53,7 +53,7 @@ No que concerne aos:
 
 No que respeita aos **Cargos**, sendo a atividade que mais suscita dúvidas aos criadores dos horários, já se encontram **todos** pré-definidos, devendo ser selecionados de acordo com o pretendido.
 
-> [!INFO]  
+> [!TIP]  
 > Recomendamos a utilização da pesquisa por texto, de modo a filtrar os cargos disponíveis e facilitar a seleção.
 
 ![Cargos](../../images/Place21/Alunos/cargos.PNG)
