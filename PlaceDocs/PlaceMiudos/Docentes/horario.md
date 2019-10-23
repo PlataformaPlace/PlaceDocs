@@ -89,6 +89,4 @@ Neste sentido, cabe às escolas ajustar pontualmente os horários dos docentes �
 
 Tendo em conta o atraso na disponibilização dos horários, pedimos que às escolas que entrem em contato com o Place (Via email) de forma a solicitar a geração das ocorrências (sumários) deste o início do ano letivo (Referir o dia de início). É igualmente importante salientar o tempo que a escolas pretendem que os sumários fiquem abertos (dias, uma semana, duas semanas...).
 
-> [!CAUTION]  
-> Informamos que, neste momento, os totalizadores das horas ainda não estão totalmente operacionais. 
 

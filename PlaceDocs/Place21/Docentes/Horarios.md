@@ -78,6 +78,9 @@ No que diz respeito ao extra do Crédito Global Horário, devem selecionar o art
 
 ![C G H2](../../images/Place21/Alunos/CGH2.PNG)
 
+> [!NOTE]  
+> Existe também o **Artigo 16**.º da Portaria n.º 265/2016, de 13 de julho, alterada pela Portaria n.º 471/2019, de 12 de agosto, o qual refere-se ao **extra crédito**. O **artigo 12º** do Despacho nº240/2018 justifica as **horas atribuídas aos cargos/funções** objeto de diplomas específicos e aos projetos aprovados por despacho do Secretário Regional de Educação, **excetuados do crédito global**.
+
 
 Quando as atividades estiverem todas bem definidas no perfil do professor (separador atividades), está na altura de desenhar o horário.
 
@@ -96,8 +99,6 @@ Neste sentido, cabe às escolas ajustar pontualmente os horários dos docentes �
 
 
 Tendo em conta o atraso na disponibilização dos horários, pedimos que às escolas que entrem em contato com o Place (Via email) de forma a solicitar a geração das ocorrências (sumários) deste o início do ano letivo (Referir o dia de início). É igualmente importante salientar o tempo que a escolas pretendem que os sumários fiquem abertos (dias, uma semana, duas semanas...).
-
-> [!CAUTION]  
-> Informamos que, neste momento, os totalizadores das horas ainda não estão totalmente operacionais. 
+ 
 
 
