@@ -237,6 +237,7 @@
     <Content Include="images\Place21\Alunos\visualizarcurso.PNG" />
     <Content Include="images\PlaceMiudos\Alunos\cargos.PNG" />
     <Content Include="images\PlaceMiudos\Alunos\Horariosdocentes.PNG" />
+    <Content Include="images\PlaceMiudos\Alunos\horas.PNG" />
     <Content Include="images\PlaceMiudos\Alunos\inqueritos.PNG" />
     <Content Include="images\PlaceMiudos\Alunos\interrupcoes.PNG" />
     <Content Include="images\PlaceMiudos\Alunos\Itemdepagamento.PNG" />

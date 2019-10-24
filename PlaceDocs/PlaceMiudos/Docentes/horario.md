@@ -58,6 +58,10 @@ No que respeita aos **Cargos**, sendo a atividade que mais suscita dúvidas aos 
 
 ![Cargos](../../images/Place21/Alunos/cargos.PNG)
 
+Chamamos a atenção neste campo, no sentido de serem marcadas **apenas as horas/tempos** que **não sejam representados** ou desenhados o horário do professor. 
+
+![Horas](../../images/PlaceMiudos/Alunos/horas.PNG)
+
 > [!IMPORTANT]  
 > **Para os apoios, atividades de enriquecimento do currículo e OTL, a escolha da turma é opcional.**
 

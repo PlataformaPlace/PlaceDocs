@@ -59,6 +59,11 @@ No que diz respeito aos **Cargos**, sendo a atividade que mais suscita dúvidas 
 
 ![Cargos](../../images/Place21/Alunos/cargos.PNG)
 
+Chamamos a atenção neste campo, no sentido de serem marcadas **apenas as horas/tempos** que **não sejam representados** ou desenhados o horário do professor. 
+
+![Horas](../../images/PlaceMiudos/Alunos/horas.PNG)
+
+
 > [!IMPORTANT]  
 > **Para os apoios, a escolha da turma é opcional.**
 
