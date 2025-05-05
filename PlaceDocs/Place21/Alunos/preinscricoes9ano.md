@@ -1,6 +1,6 @@
 ﻿# Pré - Inscrições (9º Ano de Escolaridade)
 
-Para o ano Letivo 2020/2021 já estão abertas as pré-inscrições para os alunos que estejam a frequentar o 9º ano de escolaridade, incluindo CEF´s, independentemente do seu sucesso escolar no respetivo ano.
+Para o ano Letivo 2025/2026 já estão abertas as pré-inscrições para os alunos que estejam a frequentar o 9º ano de escolaridade, incluindo CEF´s, independentemente do seu sucesso escolar no respetivo ano.
 
 Todas as escolas da Região, terão ao seu dispor o número de turmas a frequentar o 9º ano e aos respetivos alunos.
 
